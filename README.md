@@ -1,4 +1,6 @@
 # Cartoes-magicos
+![image](https://github.com/Ruanrodrigs/Cartoes-magicos/assets/113262643/c49057c1-d50e-4e3b-8d14-75abff8f203e)
+
  Código HTML e CSS de Cartões Mágicos
 
 Este é um readme para o código HTML e CSS que cria cartões mágicos interativos com efeitos de hover.
